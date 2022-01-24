@@ -45,6 +45,7 @@ nav ul li a:hover{
 }
 .slide{
     height: 1000px;
+    width: 600px;
     /* padding: 100px; */
     margin: 100px 50px 100px 50px;
     color: blue;
